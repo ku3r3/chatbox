@@ -15,8 +15,8 @@ Chatbot sederhana berbasis **GUI Tkinter** yang menggunakan **Natural Language P
 1. **Clone repositori ini** atau download sebagai ZIP
 
    ```bash
-   git clone https://github.com/username/chatbot-project.git
-   cd chatbot-project
+   git clone https://github.com/riskiputraalamzah/chatbox.git
+   cd chatbox
    ```
 
 2. **Buat dan aktifkan virtual environment**
