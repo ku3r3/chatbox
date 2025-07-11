@@ -8,6 +8,18 @@ import random
 
 import nltk
 from nltk.stem import WordNetLemmatizer
+
+# Pastikan 'punkt' sudah tersedia
+try:
+    nltk.data.find('tokenizers/punkt')
+except LookupError:
+    nltk.download('punkt')
+
+# Pastikan 'wordnet' sudah tersedia
+try:
+    nltk.data.find('corpora/wordnet')
+except LookupError:
+    nltk.download('wordnet')
 lemmatizer = WordNetLemmatizer()
 
 words = []
