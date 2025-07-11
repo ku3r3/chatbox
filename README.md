@@ -2,6 +2,10 @@
 
 Chatbot sederhana berbasis **GUI Tkinter** yang menggunakan **Natural Language Processing (NLP)** dan **TensorFlow** untuk memprediksi intent dari user.
 
+<!-- TAMBAHKAN UNTUK VIEW IN GOOGLE COLAB -->
+
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1g0l3mWuy-YmomobcZ4DNoh0C33KF7Mx6?usp=sharing)
+
 ## ⚠️ Catatan Penting
 
 > **Gunakan Python versi 3.10 atau lebih rendah.**
